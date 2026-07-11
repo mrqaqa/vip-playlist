@@ -1,0 +1,319 @@
+#EXTM3U8 url-tvg="https://iptvx.one/EPG,http://epg.it999.ru/ru.xml.gz"
+#EXTINF:-1 tvg-id="ATVHD.az",ATV AZ
+#EXTGRP:Azərbaycan
+http://185.32.44.154/azadazerbaycan/index.m3u8
+#EXTINF:-1 tvg-id="xezer",Xəzər TV
+#EXTGRP:Azərbaycan
+http://185.32.44.154/xezertv/index.m3u8
+#EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png",ARB
+#EXTGRP:Azərbaycan
+http://185.32.44.154/arb/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az",ARB 24
+#EXTGRP:Azərbaycan
+http://185.32.44.154/arb24/index.m3u8
+#EXTINF:-1 tvg-id="ARBGunesh.az" tvg-logo="https://i.imgur.com/dSg7KUK.png",ARB Günəş
+#EXTGRP:Azərbaycan
+http://185.32.44.154/arbgunesh/index.m3u8
+#EXTINF:-1 tvg-id="IctimaiTV.az",Ictimai TV
+#EXTGRP:Azərbaycan
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="aztv",AZ TV
+#EXTGRP:Azərbaycan
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-id="medeniyyet",Mədəniyyət TV
+#EXTGRP:Azərbaycan
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az",Space TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/8fps7HA.png",Real TV
+#EXTGRP:Azərbaycan
+http://185.32.44.154/realtv/index.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png",Baku TV
+#EXTGRP:Azərbaycan
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/A8nY1QT.png",APA TV
+#EXTGRP:Azərbaycan
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="cbc-az",CBC AZ
+#EXTGRP:Azərbaycan
+http://185.32.44.154/cbc/index.m3u8
+#EXTINF:-1 tvg-id="cbc-sport",CBC Sport HD
+#EXTGRP:Azərbaycan
+http://185.32.44.154/cbcsporthd/index.m3u8
+#EXTINF:-1 tvg-id="idman",İdman AZ
+#EXTGRP:Azərbaycan
+http://185.32.44.154/idmanaz/index.m3u8
+#EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://i.imgur.com/2uDoPPO.png",Dünya TV
+#EXTGRP:Azərbaycan
+http://185.32.44.154/dunyatv/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.az" tvg-logo="https://i.imgur.com/VT8KG01.png",Kanal S
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:-1 tvg-id="KapazTV.az" tvg-logo="https://i.imgur.com/rXZnIah.png",Kəpəz TV
+#EXTGRP:Azərbaycan
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="NTV.az" tvg-logo="https://i.imgur.com/LOfkqpg.png",NAXÇIVAN TV
+#EXTGRP:Azərbaycan
+https://str.yodacdn.net/ntv/mono.m3u8
+#EXTINF:-1 tvg-id="QAFQAZTV.az" tvg-logo="https://i.imgur.com/gQh7Qfv.png",QAFQAZ TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/qafkaz/video.ts
+#EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/0z57AC7.png",EL TV
+#EXTGRP:Azərbaycan
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="SHOWPLUS.az" tvg-logo="https://i.imgur.com/u9uuTYm.png",SHOW PLUS
+#EXTGRP:Azərbaycan
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-id="LIVETV.az" tvg-logo="https://i.imgur.com/8OEMS7P.png",LİVE TV
+#EXTGRP:Azərbaycan
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 tvg-id="KANAL35.az" tvg-logo="https://i.imgur.com/DzDJfTP.png",KANAL 35
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SESTV.az" tvg-logo="https://i.imgur.com/EZZZxio.png",SƏS TV
+#EXTGRP:Azərbaycan
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+#EXTINF:-1 tvg-id="BIZNESTV.az" tvg-logo="https://i.imgur.com/ayiI6kc.png",BİZNES TV
+#EXTGRP:Azərbaycan
+http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="BIZNESTV.az" tvg-logo="https://i.imgur.com/YQVh5l6.png",Səhiyyə TV
+#EXTGRP:Azərbaycan
+http://185.32.44.154/sehiyye/index.m3u8
+#EXTINF:-1 tvg-id="VIPHD.az" tvg-logo="https://i.imgur.com/n9gZNmC.png",VIP TV
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1 tvg-id="AZSTARTV.az" tvg-logo="https://i.imgur.com/di3XX5L.png",AZSTAR TV
+#EXTGRP:Azərbaycan
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="MuzTV.az" tvg-logo="https://i.imgur.com/7ZXfkeO.png",MTV
+#EXTGRP:Azərbaycan
+http://185.32.44.154/muztvaz/index.m3u8
+#EXTINF:-1 tvg-id="TMBAZ.az" tvg-logo="https://i.imgur.com/w6JEZDi.png",TMB
+#EXTGRP:Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1 tvg-id="AYAZTV.az" tvg-logo="https://i.imgur.com/eT33dT9.png",AYAZ TV
+#EXTGRP:Azərbaycan
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/kK8217X.png",KN TV
+#EXTGRP:Azərbaycan
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KNTV.az" tvg-logo="https://i.imgur.com/Y0tYJge.png",KTV MUSIC
+#EXTGRP:Azərbaycan
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1 tvg-id="VOSTOKTV.az" tvg-logo="https://i.imgur.com/0UrSNXG.png",VOSTOK TV
+#EXTGRP:Azərbaycan
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1 tvg-id="MUSİCAZERBAYCANHD.az" tvg-logo="https://i.imgur.com/wP57z0S.png",MUSİC AZERBAYCAN HD
+#EXTGRP:Azərbaycan
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-id="MUSICAZERBAYCANHIT.az" tvg-logo="https://i.imgur.com/PWmN7Ob.png",MUSİC AZERBAYCAN HİT
+#EXTGRP:Azərbaycan
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 tvg-id="trt-1-hd",TRT1
+#EXTGRP:Türk
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="atv-hd-tr",ATV
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="star-tv-hd-tr",STAR TV
+#EXTGRP:Türk
+http://185.32.44.154/startv/index.m3u8
+#EXTINF:-1 tvg-id="show-hd-tr",SHOW TV
+#EXTGRP:Türk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="kanal-d-hd",KANAL D
+#EXTGRP:Türk
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="tv8-tr",TV8
+#EXTGRP:Türk
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 tvg-id="tv85-tr",TV8,5
+#EXTGRP:Türk
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1 tvg-id="tv8-int-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-int-tr.png",TV8 İnt
+#EXTGRP:Türk
+http://185.32.44.154/tv8int/index.m3u8
+#EXTINF:-1 tvg-id="fox-hd-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",NOW
+#EXTGRP:Türk
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1 tvg-id="trt-turk-tr",TRT TÜRK
+#EXTGRP:Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="kanal-7-hd-tr",KANAL7
+#EXTGRP:Türk
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="teve2hd",teve2
+#EXTGRP:Türk
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="a2-tr",A2 TV
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-id="tv4-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png",tv4
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="tv360-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png",TV360
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="beyaz-tv-tr",BEYAZ TV
+#EXTGRP:Türk
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="trt-haber-hd",TRT HABER
+#EXTGRP:Türk
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="a-haber-tr",A HABER
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
+#EXTINF:-1 tvg-id="haberturk-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png",HABER TÜRK
+#EXTGRP:Türk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="haber-global-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haber-global-tr.png",HABER GLOBAL
+#EXTGRP:Türk
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="cnn-turk",CNN TÜRK
+#EXTGRP:Türk
+http://185.32.44.154/cnnturk/index.m3u8
+#EXTINF:-1 tvg-id="ntv-hd-tr",NTV
+#EXTGRP:Türk
+http://185.32.44.154/ntvturk/index.m3u8
+#EXTINF:-1 tvg-id="24tv-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png",24TV
+#EXTGRP:Türk
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="tv100-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png",TV100
+#EXTGRP:Türk
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1 tvg-id="tgrt-haber-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",TGRT HABER
+#EXTGRP:Türk
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="trt-spor-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",TRT Spor
+#EXTGRP:Türk
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19072/index.m3u8
+#EXTINF:-1 tvg-id="trt-spor-yildiz-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png",TRT Spor Yıldız
+#EXTGRP:Türk
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2145/index.m3u8
+#EXTINF:-1 tvg-id="a-spor-tr",A SPOR
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="ht-spor-tr" tvg-logo="https://i.imgur.com/bJBoQW0.png",HT SPOR
+#EXTGRP:Türk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
+#EXTINF:-1 tvg-id="bein-sports-haber-tr",BEIN SPORTS HABER
+#EXTGRP:Türk
+https://netspor.tecostream.xyz/bsh.m3u8
+#EXTINF:-1 tvg-id="fener-tv",Fenerbahçe TV
+#EXTGRP:Türk
+https://fbtv.fenerbahce.org/fenerbahcetv.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="yaban-tr",YABAN TV
+#EXTGRP:Türk
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w118614981.m3u8
+#EXTINF:-1 tvg-id="trt-cocuk-tr",TRT ÇOCUK
+#EXTGRP:Türk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="minikacocuk-tr",MİNİKA ÇOCUK
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="minikago-tr",MİNİKA GO
+#EXTGRP:Türk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
+#EXTGRP:Türk
+http://185.32.44.154/cartoonnetworkturk/index.m3u8
+#EXTINF:-1 tvg-id="trt-diyanet-cocuk-tr" tvg-logo="https://i.imgur.com/iSmpGZs.png",TRT DİYANET ÇOCUK
+#EXTGRP:Türk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="nr1-turk-tr",NR1 TÜRK
+#EXTGRP:Türk
+http://185.32.44.154/NR1TurkHD/index.m3u8
+#EXTINF:-1 tvg-id="power-turk-tr",POWER TÜRK
+#EXTGRP:Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_sltur.m3u8
+#EXTINF:-1 tvg-id="dream-turk-tr",DREAM TÜRK
+#EXTGRP:Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="kral-pop-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kral-pop-tr.png",KRALPOP TV
+#EXTGRP:Türk
+https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg_kralpoptv/dogusdyg_kralpoptv.smil/chunklist_b1296000.m3u8?st=fqno4wPudcTGeuIAqFKeQQ&e=1783108803
+#EXTINF:-1 tvg-id="trt-avaz",TRT AVAZ
+#EXTGRP:Türk
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trt-belgesel-tr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT BELGESEL
+#EXTGRP:Türk
+http://185.32.44.154/trtbelgesel/index.m3u8
+#EXTINF:-1 tvg-id="tlc-tr",TLC TV
+#EXTGRP:Türk
+http://185.32.44.154/tlcturk/index.m3u8
+#EXTINF:-1 tvg-id="dmax-tr",DMAX
+#EXTGRP:Türk
+http://185.32.44.154/ntvsport/index.m3u8
+#EXTINF:-1 tvg-id="pervy",Первый Канал
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/204/index.m3u8
+#EXTINF:-1 tvg-id="rossia1",Россия 1
+#EXTGRP:Rus
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24",Россия 24
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/507/index.m3u8
+#EXTINF:-1 tvg-id="kultura",Россия К
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/505/index.m3u8
+#EXTINF:-1 tvg-id="rbk",РБК
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/16075/index.m3u8
+#EXTINF:-1 tvg-id="ntv",НТВ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/213/index.m3u8
+#EXTINF:-1 tvg-id="ntv-mir",НТВ Мир
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/14035/index.m3u8
+#EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/16062/index.m3u8
+#EXTINF:-1 tvg-id="mir",Мир
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/113/index.m3u8
+#EXTINF:-1 tvg-id="mir-24",Мир 24
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/712/index.m3u8
+#EXTINF:-1 tvg-id="tvcentr",ТВЦ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/520/index.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru",Пятый Канал
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
+#EXTINF:-1 tvg-id="otr",ОТР
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/705/index.m3u8
+#EXTINF:-1 tvg-id="tnt",ТНТ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/7251/index.m3u8
+#EXTINF:-1 tvg-id="tnt4",ТНТ 4
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6370/index.m3u8
+#EXTINF:-1 tvg-id="sts",СТС
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
+#EXTINF:-1 tvg-id="rentv",Рен ТВ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2024/index.m3u8
+#EXTINF:-1 tvg-id="perec-int",Перец
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15227/index.m3u8
+#EXTINF:-1 tvg-id="che",Че!
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/513/index.m3u8
+#EXTINF:-1 tvg-id="piatnica",Пятница!
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5031/index.m3u8
+#EXTINF:-1 tvg-id="tv3-ru",ТВ 3
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5033/index.m3u8
+#EXTINF:-1 tvg-id="yu",Ю ТВ
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/534/index.m3u8
+#EXTINF:-1 tvg-id="zvezda",Звезда
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15115/index.m3u8
+#EXTINF:-1 tvg-id="dozhd",Дождь
+#EXTGRP:Rus
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/20083/index.m3u8
