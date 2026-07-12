@@ -229,10 +229,10 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2496000_s
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый Канал
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/127/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/204/index.m3u8
 #EXTINF:-1 tvg-id="rossia1",Россия 1
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/504/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/205/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24",Россия 24
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/507/index.m3u8
@@ -244,28 +244,28 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/18042/index.m3u8
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/9215/index.m3u8
 #EXTINF:-1 tvg-id="izvestia",Известия
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2008/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/18039/index.m3u8
 #EXTINF:-1 tvg-id="ntv",НТВ
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/501/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/213/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir",НТВ Мир
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/14035/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/741/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/16062/index.m3u8
 #EXTINF:-1 tvg-id="mir",Мир
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/113/index.m3u8
 #EXTINF:-1 tvg-id="mir-24",Мир 24
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/712/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2107/index.m3u8
 #EXTINF:-1 tvg-id="rbk",РБК
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/106/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/16075/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr",ТВЦ
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/520/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/19222/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru",Пятый Канал
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
@@ -274,16 +274,16 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/112/index.m3u8
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/705/index.m3u8
 #EXTINF:-1 tvg-id="tnt",ТНТ
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/502/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/237/index.m3u8
 #EXTINF:-1 tvg-id="tnt4",ТНТ 4
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/104/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6370/index.m3u8
 #EXTINF:-1 tvg-id="sts",СТС
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/506/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/6303/index.m3u8
 #EXTINF:-1 tvg-id="rentv",Рен ТВ
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/128/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2024/index.m3u8
 #EXTINF:-1 tvg-id="perec-int",Перец
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15227/index.m3u8
@@ -292,16 +292,16 @@ http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15227/index.m3u8
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/513/index.m3u8
 #EXTINF:-1 tvg-id="piatnica",Пятница!
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/503/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5031/index.m3u8
 #EXTINF:-1 tvg-id="tv3-ru",ТВ 3
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/508/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/5033/index.m3u8
 #EXTINF:-1 tvg-id="yu",Ю ТВ
 #EXTGRP:Rus
 http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/534/index.m3u8
 #EXTINF:-1 tvg-id="zvezda",Звезда
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/544/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/15115/index.m3u8
 #EXTINF:-1 tvg-id="dozhd",Дождь
 #EXTGRP:Rus
-http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/2030/index.m3u8
+http://avqheuha.siauliairsavlt.com/iptv/AEDT6TE786GQY7/20083/index.m3u8
